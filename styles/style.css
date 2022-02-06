@@ -1,3 +1,11 @@
 body {
   background: #f8e8a6;
 }
+
+.croissant {
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+  height: 800px;
+}
