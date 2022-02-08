@@ -30,3 +30,10 @@ footer {
 .email-link {
   color: purple;
 }
+
+.homepage,
+.photo,
+.contact {
+  margin: 20px;
+  padding-bottom: 20px;
+}
